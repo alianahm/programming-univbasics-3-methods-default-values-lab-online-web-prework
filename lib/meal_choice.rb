@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def 'meal_choice' do
   it 'should default to meat for the protein' do
     expect(meal_choice("carrots", "bokchoy")).to eq("A plate of meat with carrots and bokchoy.")
@@ -7,3 +8,5 @@ def 'meal_choice' do
     expect(meal_choice("carrots", "bokchoy")).
   it 'should puts "What a nutritious meal!" and your order to the console' do
 end
+=======
+>>>>>>> 93749854eb20d58504fdf5c82f3ea5d96f07f752
